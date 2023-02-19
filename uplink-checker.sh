@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Define the targets for checking uptime
 WEBSITES=("www.google.com" "www.dmi.dk" "www.microsoft.com")
